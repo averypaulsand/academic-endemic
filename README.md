@@ -1,2 +1,2 @@
 # projects
-These are projects that I have coded either in school at the University of Denver (2016-2019)
+These are projects that I coded in school at the University of Denver. All from senior year 3000-level courses (2018/19)
