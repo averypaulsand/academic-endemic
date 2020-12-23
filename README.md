@@ -9,4 +9,4 @@ Performed updates to an HBase movie database using Spark in a small distributed 
 A round-robin multi-process scheduler built for any Operating System. Coded in C++
 
 ## Stock Aggregation
-Derive company fundamentals and perfom statistical aggregations on specific attributes with appropriate output. Coded in Java
+Read in company fundamentals and stock prices from separate CSV text files and group each by key with statistical aggregations on specific attributes. Then join both RDDs by Ticker Symbol to create an RDD for further statistical operations. Finally, output results using accumulators to log metadata. Coded in Java using Apache Spark
